@@ -1,0 +1,51 @@
+[
+    {
+        "city": "kolkata",
+        "temp": 22.97,
+        "humidty": 60,
+        "description": "haze",
+        "timestamp": "2025-02-06 23:29:43"
+    },
+    {
+        "city": "delhi",
+        "temp": 14.05,
+        "humidty": 58,
+        "description": "haze",
+        "timestamp": "2025-02-06 23:34:55"
+    },
+    {
+        "city": "moscow",
+        "temp": -0.67,
+        "humidty": 64,
+        "description": "broken clouds",
+        "timestamp": "2025-02-06 23:35:13"
+    },
+    {
+        "city": "moscow",
+        "temp": -0.67,
+        "humidty": 64,
+        "description": "broken clouds",
+        "timestamp": "2025-02-06 23:39:09"
+    },
+    {
+        "city": "los angeles",
+        "temp": 13.89,
+        "humidty": 97,
+        "description": "mist",
+        "timestamp": "2025-02-06 23:39:31"
+    },
+    {
+        "city": "dallas",
+        "temp": 24.78,
+        "humidty": 71,
+        "description": "few clouds",
+        "timestamp": "2025-02-06 23:40:14"
+    },
+    {
+        "city": "chicago",
+        "temp": 0.47,
+        "humidty": 80,
+        "description": "overcast clouds",
+        "timestamp": "2025-02-06 23:41:17"
+    }
+]
